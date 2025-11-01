@@ -1,0 +1,5 @@
+{
+  "name": "Go/No-Go Test: Impulse Control Trainer",
+  "description": "A web-based game designed to train focus and self-control by helping users practice resisting social media urges through a Go/No-Go cognitive test.",
+  "requestFramePermissions": []
+}
